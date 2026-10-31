@@ -1,4 +1,4 @@
-# MyStore Pro (combined Flask project)
+# MyStore Pro
 
 ## Files
 - `app.py` — Flask routes and review sentiment analysis
